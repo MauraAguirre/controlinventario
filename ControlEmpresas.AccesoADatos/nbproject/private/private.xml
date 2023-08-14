@@ -3,7 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="controlempresasJEE">
-            <file>file:/C:/Users/mauag/Desktop/controlempresasJEE/ControlEmpresas.EntidadesDeNegocio/src/controlempresas/entidadesdenegocio/Rol.java</file>
+            <file>file:/C:/Users/mauag/Desktop/controlempresasJEE/ControlEmpresas.AccesoADatos/src/controlempresas/accesoadatos/RolDAL.java</file>
+            <file>file:/C:/Users/mauag/Desktop/controlempresasJEE/ControlEmpresas.AccesoADatos/src/controlempresas/accesoadatos/ComunDB.java</file>
         </group>
     </open-files>
 </project-private>
