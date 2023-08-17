@@ -3,6 +3,7 @@ package controlempresas.accesoadatos;
 import java.util.*;
 import java.sql.*;
 import controlempresas.entidadesdenegocio.*;
+import java.time.LocalDate;
 
 public class UsuarioDAL {
      public static String encriptarMD5(String txt) throws Exception {

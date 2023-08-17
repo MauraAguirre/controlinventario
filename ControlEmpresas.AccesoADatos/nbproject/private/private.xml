@@ -2,9 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group name="controlempresasJEE">
-            <file>file:/C:/Users/mauag/Desktop/controlempresasJEE/ControlEmpresas.AccesoADatos/src/controlempresas/accesoadatos/RolDAL.java</file>
-            <file>file:/C:/Users/mauag/Desktop/controlempresasJEE/ControlEmpresas.AccesoADatos/src/controlempresas/accesoadatos/ComunDB.java</file>
-        </group>
+        <group name="controlempresasJEE"/>
     </open-files>
 </project-private>
